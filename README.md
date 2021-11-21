@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sanusajuvarghese
+- 👋 Hi, I’m Sanu Saju Varghese
 - 👀 I’m interested in System Engineering
 - 🌱 I’m currently learning Project Management
 <!---
